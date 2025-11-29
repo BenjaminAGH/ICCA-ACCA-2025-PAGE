@@ -42,7 +42,7 @@ export function Venue() {
     },
     {
       icon: CloudSun,
-      title: "Clima en Octubre",
+      title: "Clima en diciembre",
       description:
         "Primavera con temperaturas entre 10-22°C. Se recomienda ropa abrigada para las mañanas.",
     },
